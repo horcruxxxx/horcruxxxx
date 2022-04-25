@@ -1,3 +1,5 @@
+<img align="center" src="https://raw.githubusercontent.com/horcruxxxx/horcruxxxx/main/back.png"/>
+
 <h1 align="center">Hi 👋, I'm Rachit Saxena</h1>
 <h3 align="center">Currently pursuing bachelor of Technology in Computer Science,Passionate about Software Devlopment.</h3>
 
