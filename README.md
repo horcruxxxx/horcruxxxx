@@ -1,27 +1,55 @@
-<img align="center" src="https://raw.githubusercontent.com/horcruxxxx/horcruxxxx/main/back.png"/>
+![1673323018073](https://user-images.githubusercontent.com/72144798/227985948-4200825f-fb5c-40d8-9a67-2fd5c53981b7.jpg)
 
-<h1 align="center">Hi 👋, I'm Rachit Saxena</h1>
-<h3 align="center">Currently pursuing bachelor of Technology in Computer Science,Passionate about Software Devlopment.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=horcruxxxx&label=Profile%20views&color=0e75b6&style=flat" alt="horcruxxxx" /> </p>
+### Hi there I am Rachit Saxena A Mern Satck Developer 
 
-- 🌱 I’m currently learning **React Native**
+[![PolyWork Badge](https://img.shields.io/badge/-codingpotter-blueviolet?style=plastic-square&logo=polywork&logoColor=white&link=https://www.polywork.com/codingpotter)](https://www.polywork.com/codingpotter)
+[![Instagram Badge](https://img.shields.io/badge/-codingpotter-orange?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/codingpotter/)](https://instagram.com/codingpotter)
+[![Linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanrajdc7/)](https://www.linkedin.com/in/dhanrajdc7/)
+[![Youtube Badge](https://img.shields.io/badge/-codingpotter-red?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/codingpotter)](https://www.youtube.com/codingpotter)
+[![Twitter Badge](https://img.shields.io/badge/-codingpotter-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/codingpotter)](https://www.twitter.com/codingpotter)
+<a href="https://dhanrajdc7.github.io/myportfolio/"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
+<a href="https://dhanrajdc7.github.io/myresume/"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a>
+[![BMC Badge](https://img.shields.io/badge/-BuyMeCoffee-FFDD00?style=plastic-square&logo=buy-me-a-coffee&logoColor=black&link=https://www.buymeacoffee.com/codingpotter)](https://www.buymeacoffee.com/codingpotter)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dhanrajdc7)
 
-- 💬 Ask me about **Data Structure ,Competitive Programming**
 
-- 📫 How to reach me **rachitsaxenakush1@gamil.com**
+## ABOUT ME
+Self Starter & Quick Learner, Passionate about Coding & Technology as well as shipping my ideas into apps, Encouraging others to code through Coding Blogs & my YouTube Channel.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rachit saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rachit saxena" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/h0rcrux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="h0rcrux" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/h0rcruxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="h0rcruxx" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/h0rcruxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="h0rcruxx" height="30" width="40" /></a>
-</p>
+- 🍎 WWDC 2021 Scholar
+- 🎬 YouTuber @ [Coding Potter](https://www.youtube.com/codingpotter)
+- 🌟 Microsoft Learn Student Ambassador
+- ⚡️ Auth0 Ambassador
+- 👨🏻‍💻 Indie App Developer
+- 🔭 Open Source Enthusiastic
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=horcruxxxx&show_icons=true&locale=en&layout=compact" alt="horcruxxxx" /></p>
+## MY APPS
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=horcruxxxx&show_icons=true&locale=en" alt="horcruxxxx" /></p>
+<a href="https://apps.apple.com/us/app/linksum/id1500146123"><img align="center" src="https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/images/card1.png"/></a> | <a href="https://apps.apple.com/us/app/mymeets/id1541013603"><img align="center" src="https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/images/card2.png"/></a>
+------ | -----
+<a href="https://apps.apple.com/us/app/infytracer/id1523540289"><img align="center" src="https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/images/card3.png"/></a>  | <a href="https://apps.apple.com/us/app/countio/id1510104828"><img align="center" src="https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/images/card4.png"/></a>
+<a href="https://dhanrajdc7.github.io/UnmutifyApp/"><img align="center" src="https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/images/card5.png"/></a>  | <a href="https://play.google.com/store/apps/details?id=com.dhanrajchavan.vraspirants"><img align="center" src="https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/images/card6.png"/></a>
+
+
+## MY GIT STATS
+<img src="https://github-readme-stats.vercel.app/api?username=dhanrajdc7&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajdc7&theme=radical"/>|
+|---|---|
+
+
+# Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [HackThisFall Winner Swags Unboxing | HTF Season 2 🔥](https://www.youtube.com/watch?v=l4xv_xEclHs)
+- [Unboxing MLH INIT Swags 🔥](https://www.youtube.com/watch?v=tFRph38-IT0)
+- [Unboxing GitHub Field Day India Goodies](https://www.youtube.com/watch?v=tYIjodgi4oU)
+- [Auth0 Swags Unboxing #2](https://www.youtube.com/watch?v=QVdPENURcds)
+- [Use Azure as your personal computer ft  VSCode | MLSA Event #3](https://www.youtube.com/watch?v=nuk3Sinnc4g)
+<!-- YOUTUBE:END -->
+
+# Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Simplified: Authentication &amp; Authorization](https://dev.to/dhanrajdc7/simplified-authentication-authorization-1nhb)
+- [🔥 Top 10 Most Useful Coding Tools &amp; Resources Every Programmer 👨🏻‍💻 Should Know 🤔](https://dev.to/dhanrajdc7/top-10-most-useful-coding-tools-resources-every-programmer-should-know-11nc)
+<!-- BLOG-POST-LIST:END -->
+
