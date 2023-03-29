@@ -1,7 +1,8 @@
 ![1673323018073](https://user-images.githubusercontent.com/72144798/227985948-4200825f-fb5c-40d8-9a67-2fd5c53981b7.jpg)
 
 
-### Hi there I am Rachit Saxena A Mern Stack Developer 
+### Hi there 👋 I am Rachit Saxena ` A Mern Stack Developer ` 
+### An integral aspect of my goals is to cultivate a community of dedicated freelance web application developers.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rachit-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanrajdc7/)](https://www.linkedin.com/in/rachit-saxena-3ba020225/)
@@ -17,7 +18,6 @@
 ![Linkedin Badge](https://img.shields.io/badge/-React.js-pink)
 ![Linkedin Badge](https://img.shields.io/badge/-Redux-white)
 ![Linkedin Badge](https://img.shields.io/badge/-Node.js-pink)
-
 ![Linkedin Badge](https://img.shields.io/badge/-Express-white)
 ![Linkedin Badge](https://img.shields.io/badge/-Bootstrap-pink)
 ![Linkedin Badge](https://img.shields.io/badge/-JQuery-white)
@@ -39,7 +39,7 @@
 ![Linkedin Badge](https://img.shields.io/badge/-OpenCV-white)
 
 
-## MY APPS
+## MY WEB APPS
 
 <a href="https://apps.apple.com/us/app/linksum/id1500146123"><img align="center" src="https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/images/card1.png"/></a> | <a href="https://apps.apple.com/us/app/mymeets/id1541013603"><img align="center" src="https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/images/card2.png"/></a>
 ------ | -----
@@ -48,7 +48,7 @@
 
 
 ## MY GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=dhanrajdc7&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajdc7&theme=radical"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=horcruxx&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=horcruxxxx&theme=radical"/>|
 |---|---|
 
 
@@ -63,9 +63,7 @@
 - Solved over 700+ questions over different platforms | DSA/CP.
 <!-- YOUTUBE:END -->
 
-# Latest Blog posts
+# LETS CONNECT ON LINKEDIN 
 <!-- BLOG-POST-LIST:START -->
-- [Simplified: Authentication &amp; Authorization](https://dev.to/dhanrajdc7/simplified-authentication-authorization-1nhb)
-- [🔥 Top 10 Most Useful Coding Tools &amp; Resources Every Programmer 👨🏻‍💻 Should Know 🤔](https://dev.to/dhanrajdc7/top-10-most-useful-coding-tools-resources-every-programmer-should-know-11nc)
+- ### [Rachit Saxena](https://www.linkedin.com/in/rachit-saxena-3ba020225/)
 <!-- BLOG-POST-LIST:END -->
-
