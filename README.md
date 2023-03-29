@@ -3,7 +3,7 @@
 
 ### Hi there I am Rachit Saxena A Mern Stack Developer 
 
-<!-- [![PolyWork Badge](https://img.shields.io/badge/-codingpotter-blueviolet?style=plastic-square&logo=polywork&logoColor=white&link=https://www.polywork.com/codingpotter)](https://www.polywork.com/codingpotter) -->
+
 [![Linkedin Badge](https://img.shields.io/badge/-Rachit-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanrajdc7/)](https://www.linkedin.com/in/rachit-saxena-3ba020225/)
 <a href="https://rachit-saxena.vercel.app/"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
 <a href="https://drive.google.com/file/d/1lSfmNUOZzo9pXzt4MwVIIcTRghVkdHyD/view?usp=drivesdk"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a>
@@ -11,15 +11,32 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dhanrajdc7)
 
 
-## ABOUT ME
-Self Starter & Quick Learner, Passionate about Coding & Technology as well as shipping my ideas into apps, Encouraging others to code through Coding Blogs & my YouTube Channel.
+## Skill Set
 
-- 🍎 WWDC 2021 Scholar
-- 🎬 YouTuber @ [Coding Potter](https://www.youtube.com/codingpotter)
-- 🌟 Microsoft Learn Student Ambassador
-- ⚡️ Auth0 Ambassador
-- 👨🏻‍💻 Indie App Developer
-- 🔭 Open Source Enthusiastic
+### ` FRAMEWORKS/LIBRARIES :`
+![Linkedin Badge](https://img.shields.io/badge/-React.js-pink)
+![Linkedin Badge](https://img.shields.io/badge/-Redux-white)
+![Linkedin Badge](https://img.shields.io/badge/-Node.js-pink)
+
+![Linkedin Badge](https://img.shields.io/badge/-Express-white)
+![Linkedin Badge](https://img.shields.io/badge/-Bootstrap-pink)
+![Linkedin Badge](https://img.shields.io/badge/-JQuery-white)
+
+### ` LANGUAGE :`
+![Linkedin Badge](https://img.shields.io/badge/-JavaScript-pink)
+![Linkedin Badge](https://img.shields.io/badge/-C++-white)
+![Linkedin Badge](https://img.shields.io/badge/-Python-pink)
+![Linkedin Badge](https://img.shields.io/badge/-HTML/CSS-white)
+
+### ` DATABASE :`
+![Linkedin Badge](https://img.shields.io/badge/-MongoDB-pink)
+![Linkedin Badge](https://img.shields.io/badge/-MySQL-white)
+
+### ` OTHERS :`
+![Linkedin Badge](https://img.shields.io/badge/-REST_API-pink)
+![Linkedin Badge](https://img.shields.io/badge/-Data_Structures_and_Algorithms-white)
+![Linkedin Badge](https://img.shields.io/badge/-Competitive_Programming-pink)
+![Linkedin Badge](https://img.shields.io/badge/-OpenCV-white)
 
 
 ## MY APPS
