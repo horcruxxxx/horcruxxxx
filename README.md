@@ -35,13 +35,15 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 |---|---|
 
 
-# Latest YouTube Videos
+# Achievements
 <!-- YOUTUBE:START -->
-- [HackThisFall Winner Swags Unboxing | HTF Season 2 🔥](https://www.youtube.com/watch?v=l4xv_xEclHs)
-- [Unboxing MLH INIT Swags 🔥](https://www.youtube.com/watch?v=tFRph38-IT0)
-- [Unboxing GitHub Field Day India Goodies](https://www.youtube.com/watch?v=tYIjodgi4oU)
-- [Auth0 Swags Unboxing #2](https://www.youtube.com/watch?v=QVdPENURcds)
-- [Use Azure as your personal computer ft  VSCode | MLSA Event #3](https://www.youtube.com/watch?v=nuk3Sinnc4g)
+- Secured a Rank of 2045th/10k+ in Round B 2022 | Google Kickstart
+- Secured a rank of 763th/4992 in Preliminary Round | ACM ICPC 🔥
+- Secured 3 Star rating (Max - 1794 ) | CodeChef
+- Secured Global Rank-252 in Codechef Starters Div2 | CodeChef
+- Achieved Pupil (Max - 1384) | CodeForces
+- Among the Top 8.2% of users(Max-1777) | Leetcode
+- Solved over 700+ questions over different platforms | DSA/CP.
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
