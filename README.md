@@ -1,7 +1,7 @@
 ![1673323018073](https://user-images.githubusercontent.com/72144798/227985948-4200825f-fb5c-40d8-9a67-2fd5c53981b7.jpg)
 
 
-### Hi there 👋 I am Rachit Saxena ` A Mern Stack Developer ` 
+### Hi there 👋 I am Rachit Saxena ` A Full Stack Developer ` 
 ### An integral aspect of my goals is to cultivate a community of dedicated freelance web application developers.
 
 
