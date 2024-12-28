@@ -1,7 +1,7 @@
-![1673323018073](https://user-images.githubusercontent.com/72144798/227985948-4200825f-fb5c-40d8-9a67-2fd5c53981b7.jpg)
 
+![coverpiccroped](https://github.com/user-attachments/assets/d952c401-ec38-4e74-87f1-433704616ea7)
 
-### Hi there 👋 I am Rachit Saxena ` A Full Stack Developer ` 
+### Hi there 👋 I am Rachit Saxena ` A Software Developer ` 
 ### An integral aspect of my goals is to cultivate a community of dedicated freelance web application developers.
 
 
